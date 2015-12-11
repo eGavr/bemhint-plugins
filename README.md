@@ -1,1 +1,1 @@
-# bemhint-plugins
+# bemhint-plugins [![Build Status](https://travis-ci.org/eGavr/bemhint-plugins.svg)](https://travis-ci.org/eGavr/bemhint-plugins) [![Dependency Status](https://david-dm.org/eGavr/bemhint-plugins.svg)](https://david-dm.org/eGavr/bemhint-plugins) [![devDependency Status](https://david-dm.org/eGavr/bemhint-plugins/dev-status.svg)](https://david-dm.org/eGavr/bemhint-plugins#info=devDependencies)
